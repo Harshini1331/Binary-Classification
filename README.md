@@ -18,6 +18,19 @@ Binary classification refers to predicting one of two classes and multi-class cl
 4.Summarize first few examples.<br>
 5.Plot the dataset and color the by class label.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Program:
 Program to implement binary classification.<br>
@@ -45,6 +58,33 @@ pyplot.legend()
 pyplot.show()
 
 ```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Output:
 ![screenshot1](https://user-images.githubusercontent.com/75235554/163706496-0a5e4b92-9e2c-444d-ae74-81a4543a118c.jpg)
